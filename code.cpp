@@ -4,6 +4,6 @@ int main()
 {
     string name;
     cin>>name;
-    cout<<"Hello, "<<name;
+    cout<<"Hello, "<<name ;
     return 0;
 }
